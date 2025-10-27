@@ -1,3 +1,4 @@
+port_tarayıcı/port_tarama.py
 import socket
 
 # Test edilecek hedef IP adresi
