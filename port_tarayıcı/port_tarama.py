@@ -1,8 +1,6 @@
-port_tarayıcı/port_tarama.py
 import socket
-
+target_ip=input("Hangi ip adresine port taraması yapacaksınız(exp:10.10.10.1):")
 # Test edilecek hedef IP adresi
-target_ip = "10.10.10.1" # Kendi bilgisayarınız (localhost)
 
 print(f"{target_ip} üzerindeki portlar taranıyor...")
 
